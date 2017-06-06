@@ -2,7 +2,7 @@ import React from 'react'
 import { oneOf, node } from 'prop-types'
 
 const Ruby = ({ position, align, children, ...props }) => (
-  <ruby {...props} style={{position, align}}>
+  <ruby {...props} style={{rubyPosition: position, rubyAlign: align}}>
     {children}
   </ruby>
 )
