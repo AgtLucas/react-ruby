@@ -1,0 +1,26 @@
+{
+  "name": "react-ruby",
+  "version": "1.0.0",
+  "description": "React component for ruby tag",
+  "main": "dist/Ruby.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgtLucas/react-ruby.git"
+  },
+  "keywords": [
+    "reactjs",
+    "react",
+    "html",
+    "ruby",
+    "react-component"
+  ],
+  "author": "Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgtLucas/react-ruby/issues"
+  },
+  "homepage": "https://github.com/AgtLucas/react-ruby#readme"
+}
