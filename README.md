@@ -20,7 +20,7 @@ const App = () => (
 )
 ```
 
-## <Ruby> props:
+## Ruby props:
 
 * position:
   * `over`
