@@ -1,6 +1,6 @@
 # react-ruby
 
-React component for `<ruby>` tag.
+React component for **ruby** tag.
 For more information about the `ruby` tag, please check [here](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Ruby).
 
 ## Usage
