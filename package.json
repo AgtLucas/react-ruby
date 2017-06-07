@@ -36,6 +36,7 @@
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
     "babel-register": "^6.24.1",
+    "prettier-standard": "^5.0.0",
     "standard": "^10.0.2"
   }
 }
