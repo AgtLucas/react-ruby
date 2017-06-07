@@ -1,4 +1,4 @@
-# react-ruby
+# react-ruby [![npm version](https://img.shields.io/npm/v/react-ruby.svg)](https://www.npmjs.com/package/react-ruby)
 
 React component for **ruby** tag.
 For more information about the `ruby` tag, please check [here](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Ruby).
