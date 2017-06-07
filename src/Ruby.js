@@ -1,15 +1,29 @@
 import React from 'react'
 import { oneOf, node } from 'prop-types'
 
-const Ruby = ({ position, align, children, ...props }) => (
-  <ruby {...props} style={{rubyPosition: position, rubyAlign: align}}>
+const Ruby = ({ position, align, children, ...props }) =>
+  <ruby {...props} style={{ rubyPosition: position, rubyAlign: align }}>
     {children}
   </ruby>
-)
 
 Ruby.propTypes = {
-  position: oneOf(['over', 'under', 'inter-character', 'inherit', 'initial', 'unset']),
-  align: oneOf(['start', 'center', 'space-between', 'space-around', 'inherit', 'initial', 'unset']),
+  position: oneOf([
+    'over',
+    'under',
+    'inter-character',
+    'inherit',
+    'initial',
+    'unset'
+  ]),
+  align: oneOf([
+    'start',
+    'center',
+    'space-between',
+    'space-around',
+    'inherit',
+    'initial',
+    'unset'
+  ]),
   children: node.isRequired
 }
 
